@@ -500,7 +500,7 @@ footer > div > p {
 
   .container-grid {
     grid-template-columns: 1fr 1fr 1fr;
-    gap: rem;
+    gap: 3rem;
   }
 
   .container-cine {
