@@ -157,6 +157,14 @@ footer > div > p {
   font-size: 0.9rem;
 }
 
+.menu-footer a:hover {
+  color: rgb(222, 35, 51);
+}
+
+.redes-sociales a:hover {
+  opacity: 0.7;
+}
+
 /* ------------------------------ */
 
 /* ----------- Index ------------ */
@@ -475,14 +483,6 @@ footer > div > p {
   }
   .menu-footer > li:first-child::before {
     content: none;
-  }
-
-  .menu-footer a:hover {
-    color: rgb(222, 35, 51);
-  }
-
-  .redes-sociales a:hover {
-    opacity: 0.7;
   }
 
   .menu {
